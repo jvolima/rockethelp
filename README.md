@@ -5,3 +5,4 @@
 - React Native
 - Typescript
 - Native Base
+- React Navigation
