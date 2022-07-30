@@ -42,7 +42,7 @@ export function Register() {
 
   return (
     <VStack flex={1} p={6} bg="gray.600">
-      <Header title="Nova solicitação" />
+      <Header title="Solicitação" />
 
       <Input
         placeholder="Número do pratimônio"
